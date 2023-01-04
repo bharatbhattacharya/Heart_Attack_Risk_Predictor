@@ -1,2 +1,2 @@
 # Heart_Attack_Risk_Predictor © BHARAT BHATTACHARYA
-In this project we have written a script which will help us predict the risk of a Heart Attack a person have. We have used various Algorithms to predict the result and see which one suits best to predict the result.
+In this project, we've built a script that will enable us to estimate a person's risk of suffering a heart attack. We have tested a number of algorithms to anticipate the outcome and determine which one works best.
